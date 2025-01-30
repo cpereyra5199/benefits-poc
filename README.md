@@ -19,6 +19,9 @@
 - Real-time benefits calculation as inputs are updated
 - Custom benefit calculation logic
 
+## Concerns
+- Was not able to immeditately understand from the requirements if a list page of employees was required.  Went with a scrolling approach to demostrate different employees and their states. Just to break from the norm of list page/edit views we are surrounded by! This also simplifies the project in that no routing is used in the POC.
+
 ## Demo
 
 ![GIF Demo](assets/recording.gif)
