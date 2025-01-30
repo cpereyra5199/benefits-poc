@@ -18,3 +18,7 @@
 - CRUD operations for employees and dependents
 - Real-time benefits calculation as inputs are updated
 - Custom benefit calculation logic
+
+## Demo
+
+![GIF Demo](assets/recording.gif)
