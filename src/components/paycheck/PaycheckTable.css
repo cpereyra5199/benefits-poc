@@ -1,0 +1,25 @@
+.paycheck-table {
+    width: 100%;
+    margin-top: 1rem;
+    border-collapse: collapse;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.paycheck-table th, .paycheck-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.paycheck-table th {
+    background-color: #f8f8f8;
+    font-weight: bold;
+}
+
+.paycheck-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.paycheck-table tbody tr:hover {
+    background-color: #f1f1f1;
+}

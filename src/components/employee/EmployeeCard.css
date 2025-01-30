@@ -1,0 +1,27 @@
+.employee-card {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    width: 98%;
+    padding: 16px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+.employee-name {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+
+.employee-info {
+    color: #555;
+}
+
+.employee-benefit {
+    color: #007bff;
+    font-weight: 500;
+}
